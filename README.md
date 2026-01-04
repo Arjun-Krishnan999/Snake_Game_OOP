@@ -9,8 +9,8 @@ Classic snake game implemented in python using object-oriented programming.
 
 ```text
 snake-game/
-├── main.py        # Game loop and main logic
-├── snake.py       # Snake behavior
-├── food.py        # Food generation
-├── scoreboard.py # Score display and tracking
-└── data.txt       # High score storage
+├── main.py       #Main logic
+├── snake.py      #Snake behavior
+├── food.py       #Food generation
+├── scoreboard.py #Score display and tracking
+└── data.txt      #High score storage
